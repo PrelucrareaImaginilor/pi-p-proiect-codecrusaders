@@ -1,4 +1,4 @@
-<a name="_qyxep34u6rpm">Dezvoltarea unei soluții de eye-tracking</a>
+# <a name="_qyxep34u6rpm">Dezvoltarea unei soluții de eye-tracking</a>
 
 
 Eye tracking-ul poate fi descris ca o tehnică de înregistrare a mișcării ochilor și a locației privirii de-a lungul timpului pentru a observa alocarea atenției vizuale. Această tehnică utilizează procesarea imaginilor și (sau) algoritmi de învățare automată pentru a detecta ochii umani și a identifica prezența și mișcarea ochilor unei persoane într-un videoclip în timp real. Un număr tot mai mare de tehnici non-invazive de urmărire a ochilor au fost dezvoltate pentru a înlocui tehnicile mai vechi care necesită contact direct cu corneea ochiului uman. Sistemul accesibil de eye-tracking câștigă popularitate față de sistemele costisitoare și nepractice de eye-tracking care se bazează pe un dispozitiv special de urmărire a privirii.
